@@ -1,8 +1,8 @@
 ## Hi, I'm Harsh Mestry 👋
 
-- 🎓 BSc. IT Graduate from Shailendra Education Society's College, Mumbai
 - 💻 Full-Stack Web Developer skilled in Java, PHP & MySQL
 - 🌱 Currently exploring Advanced JavaScript & modern frameworks
+- 🎓 BSc. IT Graduate from Shailendra Education Society's College, Mumbai
 - 📍 Based in Mumbai, India
 - 📫 Open to exciting opportunities & collaborations!
   
