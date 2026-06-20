@@ -1,6 +1,11 @@
 ## Hi, I'm Harsh Mestry 👋
-😎 Completed my BSc.IT at Shailendra Education Society.
 
+- 🎓 BSc. IT Graduate from Shailendra Education Society's College, Mumbai
+- 💻 Full-Stack Web Developer skilled in Java, PHP & MySQL
+- 🌱 Currently exploring Advanced JavaScript & modern frameworks
+- 📍 Based in Mumbai, India
+- 📫 Open to exciting opportunities & collaborations!
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harshh_1555) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-mestry-hm1555) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mestry1harsh@gmail.com)
 
@@ -23,4 +28,5 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=Harsh-1555&color=0)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
