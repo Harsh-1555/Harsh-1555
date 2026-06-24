@@ -1,4 +1,4 @@
-## Hi, I'm Harsh Mestry 👋
+## Hey there, I'm Harsh Mestry 👋
 
 - 💻 Full-Stack Web Developer skilled in Java, PHP & MySQL
 - 🌱 Currently exploring Advanced JavaScript & modern frameworks
